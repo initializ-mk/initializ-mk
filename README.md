@@ -73,6 +73,6 @@ Check out my repositories below or browse [github.com/mayureshkrishna](https://g
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=initializ-mk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=initializ-mk&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=initializ-mk&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=initializ-mk&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
